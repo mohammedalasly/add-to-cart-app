@@ -37,6 +37,6 @@ In your **JavaScript** file, replace " **_add your own Firebase project link her
 
 ## Live link: 🌐
 
-- [https://add-to-card-mohammad.netlify.app/](https://add-to-card-mohammad.netlify.app/)
+- [https://add-to-cart-mohammad.netlify.app/](https://add-to-cart-mohammad.netlify.app/)
 
 ![shopping boy](/assets/add-to-cart.png)

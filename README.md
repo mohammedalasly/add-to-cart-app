@@ -16,10 +16,17 @@ In summary, the code initializes Firebase, manages a shopping list in the databa
 
 ## Getting Started 🧑🏾‍💻
 
-To use this application, follow the instructions below:
+to set up a basic Firebase project for managing a shopping list using JavaScript.
 
 1. Clone the repository or download the code files.
 2. Open the HTML file (index.html) in a web browser.
+3. Create a Firebase Project:
+
+Go to the Firebase Console (https://console.firebase.google.com/) and create a new project.
+In the project dashboard, click on "Add project" give your project name in thins case it's called "shoppingList".
+After creating the project, Firebase will generate a configuration object(link) with your project's credentials. Copy this configuration object.
+
+In your **JavaScript** file, replace " **_add your own Firebase project link here_** " with the Firebase configuration object you copied earlier.
 
 ## Usage
 

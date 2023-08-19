@@ -8,7 +8,7 @@ import {
 } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-database.js";
 
 const appSettings = {
-  databaseURL: "add your own Firebase project link here",
+  databaseURL: "add your own Firebase project URL here",
 };
 
 const app = initializeApp(appSettings);

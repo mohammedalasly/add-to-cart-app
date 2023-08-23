@@ -8,7 +8,7 @@ import {
 } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-database.js";
 
 const appSettings = {
-  databaseURL: "https://add-to-card-75e4a-default-rtdb.europe-west1.firebasedatabase.app/",
+  databaseURL: "Add your URL firebase database here",
 };
 
 const app = initializeApp(appSettings);

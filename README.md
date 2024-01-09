@@ -1,12 +1,12 @@
-# Firebase Shopping List App 🛒🛍️
+# Firebase - Shopping List App 🛒🛍️
 
 This is a simple web application that allows users to create and manage a shopping list using Firebase Realtime Database. Users can add items to the list, mark items as purchased, and remove items from the list.
 
 ## Code Demo:
 
-1. Imports Firebase SDK modules for app initialization and database operations.
-2. Initializes the Firebase app with configuration settings.
-3. Sets up references to the database and a specific location for the shopping list.
+1. Import Firebase SDK modules for app initialization and database operations.
+2. Initialize the Firebase app with configuration settings.
+3. Set up references to the database and a specific location for the shopping list.
 4. Retrieves HTML elements (input field, button, list, error message) for interaction.
 5. Listens for button clicks to add items to the shopping list.
 6. Listens for changes in the database and updates the UI with the current shopping list.
